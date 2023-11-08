@@ -5,7 +5,7 @@
 🎶踏上使用MVVM架构在SwiftUI中构建时尚且功能丰富的音乐播放器应用程序的旅程。在本综合教程中，我们将指导您通过飞溅屏幕、底部选项卡视图、主屏幕、侧菜单、歌曲库、播放列表、专辑、艺术家档案、流派、播放功能和设置屏幕来创建迷人的用户体验。
 
 ### 效果图
-<img src="screenshot.jpg" width="300" height:auto alt="screenshot.jpg"/>
+<img src="screenshot.jpg" width="1024" height:auto alt="screenshot.jpg"/>
 
 🚀 主要亮点：
 
